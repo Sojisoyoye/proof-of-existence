@@ -376,4 +376,4 @@ logs
 deploy_mnemonic.key
 contracts/.placeholder
 test/.placeholder
-build
+.secret
